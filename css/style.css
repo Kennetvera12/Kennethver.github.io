@@ -5,7 +5,7 @@ html, body {
 
 header {
     position: relative;
-    background-color: black;
+    background-color: rgb(19, 16, 230);
     height: 100vh;
     min-height: 25rem;
     width: 100%;
@@ -38,7 +38,7 @@ header .overlay {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     opacity: 0.5;
     z-index: 1;
 }
